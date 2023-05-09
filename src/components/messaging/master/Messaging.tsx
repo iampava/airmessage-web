@@ -1,5 +1,5 @@
 import React, {useCallback, useContext, useEffect, useRef, useState} from "react";
-import Sidebar from "../master/Sidebar";
+import Sidebar from "./Sidebar";
 import * as ConnectionManager from "../../../connection/connectionManager";
 import {ConnectionListener, warnCommVer} from "../../../connection/connectionManager";
 import {ConnectionErrorCode, MessageError} from "../../../data/stateCodes";

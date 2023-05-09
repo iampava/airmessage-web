@@ -294,3 +294,5 @@ $RECYCLE.BIN/
 
 # Private config
 /src/secrets.ts
+
+storybook-static/
